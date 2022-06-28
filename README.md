@@ -1,5 +1,14 @@
-### Hi there 👋
-
+Olá  :smiley_cat:
+ ## sou a Nicole Visi :purple_heart:  
+ atualmnete estou estudando as  **liguagens de programação**  nas aulas de  *pensamento computacional* do meu colégio onde
+ pretendo evoluir e colaborar com todos aqui na plataforma ;
+ adquirir e compatilhar conhecimento ;
+  ### Por hora eu ja aprendia as linguagens de programação do scratch e javascript
+  
+  ![](https://img.shields.io/badge/Scratch-4D97FF?style=for-the-badge&logo=Scratch&logoColor=white) 
+  
+  
+  ![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 <!--
 **nicolevisi/nicolevisi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
