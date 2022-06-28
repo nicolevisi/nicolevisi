@@ -1,6 +1,6 @@
 Olá  :smiley_cat:
  ## sou a Nicole Visi :purple_heart:  
- atualmnete estou estudando as  **liguagens de programação**  nas aulas de  *pensamento computacional* do meu colégio onde
+ atualmnete estou estudando as  **liguagens de programação**  nas aulas de  [pensamento computacional](https://pt.wikipedia.org/wiki/Pensamento_computacional) do meu colégio onde
  pretendo evoluir e colaborar com todos aqui na plataforma ;
  adquirir e compatilhar conhecimento ;
   ### Por hora eu ja aprendia as linguagens de programação do scratch e javascript
